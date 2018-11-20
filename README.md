@@ -32,3 +32,10 @@ Feels look like my skill in Front-End much better.
 ![](task_html_css_intro/basics-css.png)
 ![](task_html_css_intro/basics-html.png)
 ![](task_html_css_intro/intro-html-css.png)
+## Task 5 --> Responsive Web Design
+I very satisfied for done this task, now i'm understand how to do website responsive. I'm learned new things like breakpoints, media queries , common  responsive paterns, also start using flexbox.
+
+>### Responsive web design is an art, not a science.
+
+![](task_responsive_web_design/responsive-web-design.png)
+![](task_responsive_web_design/flexbox-froggy.png)
