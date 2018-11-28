@@ -44,3 +44,7 @@ In this task for me was RegExp. it's pretty cool to understand how to manipulate
 
 ![](task_js_basics/basics-js.png)
 ![](task_js_basics/free-code-camp-h1.png)
+# Task 7 --> DOM
+At this task was much interesting and new information especially how to create, add, remove etc DOM elements , many methods for work with this one. This all gives new reflect about FE.
+![](task_js_dom/img/free-code-camp-h2.png)
+![](task_js_dom/img/js-and-dom.png)

@@ -10,12 +10,14 @@ var Luntik = {
         let removeContentFunction = this.removeContent.bind(this);
         let removeStylesFunction = this.removeStyles.bind(this);
         document.querySelector('#friend-list').addEventListener('click', function(){
-            removeContentFunction();
-            removeStylesFunction();
-            //ADD CONTENT AND STYLES
-            event.target.classList.toggle('person');
-            document.querySelector('main').classList.add('mainActive');
-            createItemFunction(event.target.dataset.item);
+            if(event.target.hasAttribute('data-item')){
+                removeContentFunction();
+                removeStylesFunction();
+                //ADD CONTENT AND STYLES
+                event.target.classList.toggle('person');
+                document.querySelector('main').classList.add('mainActive');
+                createItemFunction(event.target.dataset.item);
+            }
         }); 
     },
     createItem: function(n){
@@ -38,12 +40,10 @@ var Luntik = {
 
     },
     removeContent: function(){
-        if(event.target.hasAttribute('data-item')){            
-            if(document.querySelector('main .content').childNodes.length > 0){
-                if(document.querySelector('main .content').childNodes[0].classList.contains('infoBlock')){
-                    document.querySelector('main .content').removeChild(document.querySelector('.infoBlock'));
-                };
-            }
+        if(document.querySelector('main .content').childNodes.length > 0){
+            if(document.querySelector('main .content').childNodes[0].classList.contains('infoBlock')){
+                document.querySelector('main .content').removeChild(document.querySelector('.infoBlock'));
+            };
         }
     },
     removeStyles: function(){
