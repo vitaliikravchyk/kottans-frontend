@@ -39,3 +39,8 @@ I very satisfied for done this task, now i'm understand how to do website respon
 
 ![](task_responsive_web_design/responsive-web-design.png)
 ![](task_responsive_web_design/flexbox-froggy.png)
+## Task 6 --> JS Basics
+In this task for me was RegExp. it's pretty cool to understand how to manipulate with Strings. Also freecodecamp tasks gives good practice in some algorithms.
+
+![](task_js_basics/basics-js.png)
+![](task_js_basics/free-code-camp-h1.png)
