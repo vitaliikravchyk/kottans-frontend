@@ -44,10 +44,15 @@ In this task for me was RegExp. it's pretty cool to understand how to manipulate
 
 ![](task_js_basics/basics-js.png)
 ![](task_js_basics/free-code-camp-h1.png)
-# Task 5 --> DOM
+# Task 6 --> DOM
 At this task was much interesting and new information especially how to create, add, remove etc DOM elements , many methods for work with this one. This all gives new reflect about FE.
 ![](task_js_dom/img/free-code-camp-h2.png)
 ![](task_js_dom/img/js-and-dom.png)
 
 ### [Demo](https://vitaliykravchyk.github.io/kottansDOM/) | [Codebase](https://github.com/vitaliykravchyk/kottans-frontend/tree/master/task_js_dom)
 Reviewed and approved by @AMashoshyna
+## Task 7 --> A Tiny JS World
+It's good example that need to start thinking about something new that will do you code more simple.
+
+### [Demo](https://vitaliykravchyk.github.io/a-tiny-JS-world/) | [Code base](https://github.com/vitaliykravchyk/a-tiny-JS-world/blob/gh-pages/index.js)
+Reviewed and approved by @OleksiyRudenko
