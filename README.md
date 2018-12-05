@@ -56,3 +56,13 @@ It's good example that need to start thinking about something new that will do y
 
 ### [Demo](https://vitaliykravchyk.github.io/a-tiny-JS-world/) | [Code base](https://github.com/vitaliykravchyk/a-tiny-JS-world/blob/gh-pages/index.js)
 Reviewed and approved by @OleksiyRudenko
+## Task 8 --> Object Oriented JS
+
+![](task_js_oop/oojs.png)
+
+This task was very interesting and i am learned methods how to do my code more simple and more powerful.
+
+#### [Codewars profile](https://www.codewars.com/users/vitaliykravchyk)
+### Frogger
+#### [Demo](https://vitaliykravchyk.github.io/frogger/) | [Code base](https://github.com/vitaliykravchyk/frogger/tree/gh-pages)
+Reviewed and approved by @AMashoshyna
