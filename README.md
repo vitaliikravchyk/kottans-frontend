@@ -66,3 +66,9 @@ This task was very interesting and i am learned methods how to do my code more s
 ### Frogger
 #### [Demo](https://vitaliykravchyk.github.io/frogger/) | [Code base](https://github.com/vitaliykravchyk/frogger/tree/gh-pages)
 Reviewed and approved by @AMashoshyna
+
+## Task 9 --> OOP Exercise
+In this task i'm upgraded previous same task code base with OOP that i learned at this course.
+
+### [New code base](https://github.com/vitaliykravchyk/frontend-2019-homeworks/tree/a-tiny-js-world-2/submissions/vitaliykravchyk/a-tiny-js-world-2)
+Reviewed and approved by @AMashoshyna
