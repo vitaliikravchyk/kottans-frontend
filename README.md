@@ -72,3 +72,11 @@ In this task i'm upgraded previous same task code base with OOP that i learned a
 
 ### [New code base](https://github.com/vitaliykravchyk/frontend-2019-homeworks/tree/a-tiny-js-world-2/submissions/vitaliykravchyk/a-tiny-js-world-2)
 Reviewed and approved by @AMashoshyna
+## Task --> 11 Memory Pair Game
+
+#### [Demo](https://vitaliykravchyk.github.io/memory-pair-game/) | [Code base](https://github.com/vitaliykravchyk/memory-pair-game)
+Reviewed and approved by @AMashoshyna
+## Task --> 13 Friends App
+
+#### [Demo](https://vitaliykravchyk.github.io/friends-app/) | [Code base](https://github.com/vitaliykravchyk/friends-app/tree/gh-pages)
+Reviewed and approved by @AMashoshyna
