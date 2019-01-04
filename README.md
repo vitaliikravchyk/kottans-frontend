@@ -72,10 +72,20 @@ In this task i'm upgraded previous same task code base with OOP that i learned a
 
 ### [New code base](https://github.com/vitaliykravchyk/frontend-2019-homeworks/tree/a-tiny-js-world-2/submissions/vitaliykravchyk/a-tiny-js-world-2)
 Reviewed and approved by @AMashoshyna
+## Task --> 10 Offline Web Applications
+A rather difficult task that made it possible to understand how to make the application interface offline/ with poor connection /Lie-Fi is responsive to the user. In this task, I learned that the browser has its own database IndexDB, also a useful tool for caching CacheAPI and a tool for retrieving resources FetchAPI, a very powerful ServiceWorker tool that allows you to intercept requests and describe application behavior offline.
+
+![](task_offline_web_app/offline-first.png)
 ## Task --> 11 Memory Pair Game
 
 #### [Demo](https://vitaliykravchyk.github.io/memory-pair-game/) | [Code base](https://github.com/vitaliykravchyk/memory-pair-game)
 Reviewed and approved by @AMashoshyna
+## Task --> 12 Website Performance Optimization
+In this task there was a lot of new information from the structure of the browser to the optimization methods. For myself, I understand how reflow and repaint affect the animation, how to compress pictures with Grunt, how to parse HTML, defer, asynс attributes and their effect on when JavaScript is executed to avoid parsing when this is not necessary. In general, the performance, its measurement and optimization is a separate branch that is very important in FrontEnd. When i'm finished task I received basic knowledge and I know that in the future I will study this in more detail.
+
+![](task_website_performance/browser-rendering-optimisation.png)
+![](task_website_performance/responsive-image.png)
+![](task_website_performance/website-perfomance-optimization.png)
 ## Task --> 13 Friends App
 
 #### [Demo](https://vitaliykravchyk.github.io/friends-app/) | [Code base](https://github.com/vitaliykravchyk/friends-app/tree/gh-pages)
